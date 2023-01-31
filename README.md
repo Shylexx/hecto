@@ -2,4 +2,4 @@
   
 Rust based terminal text editor.  
   
-Created using [tutorial by Phillip Flenker](https://www.phillippflenker.com/hecto/)
+Created using [tutorial by Phillip Flenker](https://www.flenker.blog/hecto/)
